@@ -1,5 +1,3 @@
-**Description**
-A fully mathematical obfuscator for Luau / Lua 5.4. This script replaces string literals and numeric literals with generated expressions, optionally encrypts string bytes using a simple XOR with a math-based KDF, and injects a small runtime to decrypt strings at runtime.
 
 **Features**
 
